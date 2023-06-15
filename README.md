@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hi there, I'm Vlad 👋</h1>
-	  <p>FEA Engineer in the Past, Backend Developer in the Future</p>
+	  <p>Stress Engineer in the Past, Backend Developer in the Future</p>
     <h2>Socials</h2>
     <p>	
     	  <a href="https://t.me/bvsvrvb" rel="noreferrer"><img
