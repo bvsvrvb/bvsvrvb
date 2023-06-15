@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hi there, I'm Vlad 👋</h1>
-	  <h3>FEA Engineer in the Past, Backend Developer in the Future</h3>
+	  <p>FEA Engineer in the Past, Backend Developer in the Future</p>
     <h2>Socials</h2>
     <p>	
     	  <a href="https://t.me/bvsvrvb" rel="noreferrer"><img
@@ -35,8 +35,8 @@
 </div>
 
 <div align="center">
-	  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bvsvrvb&theme=github_dark"
-    	alt="Profile Details" style="max-width: 100%; height: auto;" />
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bvsvrvb&theme=github_dark"
+    	alt="Profile Details" style="max-width: 100%; height: auto;" /> -->
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bvsvrvb&theme=github_dark"
         alt="Stats" style="max-width: 100%; height: auto;" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bvsvrvb&theme=github_dark"
