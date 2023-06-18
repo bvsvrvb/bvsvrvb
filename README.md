@@ -37,8 +37,10 @@
 <div align="center">
     <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bvsvrvb&theme=github_dark"
     	alt="Profile Details" style="max-width: 100%; height: auto;" /> -->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bvsvrvb&theme=github_dark"
-        alt="Stats" style="max-width: 100%; height: auto;" />
+    <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bvsvrvb&theme=github_dark"
+        alt="Stats" style="max-width: 100%; height: auto;" /> -->
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bvsvrvb&theme=github_dark"
+        alt="Top Languages by Repo" style="max-width: 100%; height: auto;" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bvsvrvb&theme=github_dark"
         alt="Top Languages by Commit" style="max-width: 100%; height: auto;" />
 </div>
