@@ -6,14 +6,17 @@
     	<a href="https://t.me/bvsvrvb" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Telegram.svg"
             alt="telegram" width="30" height="30" /></a>
+	<!-- <a href="https://www.linkedin.com/" rel="noreferrer"><img
+            src=""
+            alt="linkedin" width="30" height="30" /></a> -->
 	<a href="https://leetcode.com/bvsvrvb" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
             alt="leetcode" width="30" height="30" /></a>
-        <a href="https://career.habr.com/bvsvrvb" rel="noreferrer"><img
+        <!-- <a href="https://career.habr.com/" rel="noreferrer"><img
             src="https://avatars.dzeninfra.ru/get-zen-logos/212539/pub_62447c6f72c5a877c92efdba_6244808a90bf0419a97f9525/xxh"
-            alt="habr career" width="30" height="30" /></a>
+            alt="habr career" width="30" height="30" /></a> -->
     </p>
-    <h2>Technologies & Tools</h2>
+    <h2>Technologies</h2>
     <p>	
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
             alt="python" width="30" height="30" />
