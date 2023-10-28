@@ -22,8 +22,14 @@
             alt="python" width="30" height="30" />
       	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" 
             alt="django" width="30" height="30" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" 
+            alt="fastapi" width="30" height="30" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" 
+            alt="flask" width="30" height="30" />
 	<img src="https://scrapy.org/favicons/favicon-192x192.png" 
             alt="scrapy" width="30" height="30" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" 
+            alt="postgresql" width="30" height="30" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
             alt="postgresql" width="30" height="30" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" 
@@ -32,10 +38,6 @@
             alt="nginx" width="30" height="30" />
       	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
             alt="docker" width="30" height="30" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-            alt="git" width="30" height="30" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
-            alt="linux" width="30" height="30" />
     </p>
     <h2>Projects</h2>
     <p>
